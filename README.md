@@ -79,7 +79,5 @@ Key questions addressed:
 
 ---
 
-## Dashboard
-📊 **Interactive Tableau Dashboard:**  
-*(Add your Tableau Public link here)*
+
 
